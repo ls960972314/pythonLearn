@@ -1,2 +1,2 @@
 # pythonLearn
-learn python
+Learn the fundamentals of Python
