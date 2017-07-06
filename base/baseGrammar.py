@@ -5,7 +5,7 @@ import sys
 # 同一行显示多条语句
 one = 'one'; sys.stdout.write(one + '\n')
 
-# 行和锁进
+# 行和缩进
 if True:
     print "True"
 elif False:
