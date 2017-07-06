@@ -1,5 +1,6 @@
 # pythonLearn
 Learn the fundamentals of Python
+<pre>
 base
     chineseEncode.py      支持中文
     baseGrammar.py        基础语法
@@ -7,3 +8,4 @@ base
     variable.py           变量
     circle.py             循环
     number.py             数字
+</pre>
